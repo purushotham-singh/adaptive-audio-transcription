@@ -27,7 +27,8 @@ The fourth application will be operational once the first three have been closed
 
 ## Dependencies
 
-- Python (version X.X or above)
-- Libraries: `<list libraries here>`
+- Python (version better to use latest version)
+- Libraries: `<pip install SpeechRecognition pydub flask>`,`<pip install pyttsx3>`,`<pip install SpeechRecognition>`,`<pip install pydub
+>`,for Mac `<brew install ffmpeg>`,`<sudo apt-get install python3-tk>`
 - Compatible OS: `<your OS>` (e.g., Mac, Windows)
 
