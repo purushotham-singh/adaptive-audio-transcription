@@ -30,6 +30,6 @@ The fourth application will be operational once the first three have been closed
 - Python (version better to use latest version)
   
 - Libraries: `pip install SpeechRecognition pydub flask pyttsx3`, for Mac: `brew install ffmpeg`, for Linux: `sudo apt-get install python3-tk`
-- 
+  
 - Compatible OS: `<your OS>` (e.g., Mac, Windows)
 
