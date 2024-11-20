@@ -22,7 +22,7 @@ The fourth application will be operational once the first three have been closed
 ## Notes
 
 - Ensure your system meets all prerequisites for running the script and GUI applications.  
-- Refer to [dependencies](#dependencies) for additional requirements.  
+- Refer to dependencies for additional requirements.  
 - For any issues, open an issue in the repository or contact the maintainer.
 
 ## Dependencies
